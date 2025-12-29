@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "チャージマン研",
+  "base_artist": "ひばり児童合唱団",
+  "createdAt": "2025-12-29T13:30:32.918553Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "チャージマン研",
+      "artist": "CHARGEMAN KEN!",
+      "has_synced": true,
+      "path": "select/01_チャージマン研_CHARGEMAN_KEN!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BGM02 (チャージマン研! INSTRUMENTAL)",
+      "artist": "CHARGEMAN KEN!",
+      "has_synced": true,
+      "path": "select/02_BGM02_(チャージマン研!_INSTRUMENTAL)_CHARGEMAN_KEN!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チャージマン研",
+      "artist": "ひばり児童合唱団",
+      "has_synced": false,
+      "path": "select/pl_01_チャージマン研_ひばり児童合唱団.txt"
+    }
+  ]
+}
